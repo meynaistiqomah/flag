@@ -20,7 +20,7 @@ public class BelajarFlag {
                 {
                     if (number % i ==0)
                     {
-                         System.out.println("Ini Bukan Bilangan Prima");
+                         System.out.println("Ini adalah Bilangan Prima");
                          flag= 1;
                          break;
                     }
@@ -29,7 +29,7 @@ public class BelajarFlag {
                 {
                     if(number ==0)
                     {
-                        System.out.println("Ini Bukan Bilangan Prima");
+                        System.out.println("Ini adalah Bilangan Prima");
                         flag =1;
                         break;
                     }
